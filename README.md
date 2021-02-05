@@ -28,4 +28,4 @@
 
 > Let's Connect
 > 
-> <a href="https://www.linkedin.com/in/tanishka-vaswani-8b2b40184"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a>  <a href="https://discordapp.com/users/748813142234234911/"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a><a href="https://www.instagram.com/_taanniisshhkaaa_/">
+> <a href="https://www.linkedin.com/in/tanishka-vaswani-8b2b40184"><img src="https://i.ibb.co/72mMsGc/linked-in.jpg" alt="linked-in" border="0"></a> 
