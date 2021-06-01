@@ -46,7 +46,8 @@
 <br/>
 <br/>
 
-[![Tanishka Vaswani's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tani21&theme=dracula)](https://github.com/Tani21/github-readme-activity-graph)
+<a href="https://github.com/Tani21/github-readme-activity-graph"><img alt="Tanishka Vaswani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tani21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
