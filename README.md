@@ -14,16 +14,9 @@
 
 - ⚡ Fun fact **I’d love to read and exchange books**
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tani21&theme=highcontrast)](https://git.io/streak-stats)
-
-
-
 <p align="center">
-    <a href="https://github.com/Tani21/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tani21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tani21&theme=highcontrast)](https://git.io/streak-stats)
+    </p>
 
 
 ## 🚀 Languages and Tools:
@@ -44,7 +37,7 @@
     
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tani21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Tani21&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img display="inline" width=45% height=200px src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tani21&layout=compact&theme=blue-green">
 </p>
