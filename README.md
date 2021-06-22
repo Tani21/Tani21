@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I’d love to read and exchange books**
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tani21&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tani21&&theme=highcontrast)](https://git.io/streak-stats)
     </p>
 
 
