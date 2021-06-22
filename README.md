@@ -15,6 +15,10 @@
 - ⚡ Fun fact **I’d love to read and exchange books**
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tani21&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
 <p align="center">
     <a href="https://github.com/Tani21/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tani21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
